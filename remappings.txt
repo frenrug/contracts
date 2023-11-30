@@ -1,0 +1,6 @@
+solady/=lib/solady/src
+@prb/math/=lib/prb-math/src
+forge-std/=lib/forge-std/src
+solady-tests/=lib/solady/test
+infernet/=lib/infernet-sdk/src
+infernet-tests/=lib/infernet-sdk/test
